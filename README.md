@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Since Github already support this, we will be archiving this repo.
+
 ## No Merge
 
 This is a simple extension which disables the green merge button for pull requests on GitHub. It is not perfect, but it gets the job done.
